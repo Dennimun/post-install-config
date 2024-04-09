@@ -5,7 +5,7 @@
 <h1>osTicket - Post-Install Configuration</h1>
 Hey there! This is a guide on how to configure osTicket, an open-source help desk ticketing system, after the installation process.<br />
 
-<b>Note:</b> To follow along with this guide, make sure you have completed the prerequisites and installation steps described in my previous demonstration, "Prerequisites and Installation".  The video will guide you visually through the steps involved and then further on there are some notes and screenshots provided to provide highlights of some or all of the material.
+<b>Note:</b> To follow along with this guide, make sure you have completed the prerequisites and installation steps described in my previous demonstration, "Prerequisites and Installation".  The notes and screenshots below will guide you visually through the steps involved and then further on highlight some or all of the material.
 
 
 <h2>Environments and Technologies Used</h2>
@@ -215,7 +215,7 @@ After that, click "Add Topic".
 <hr>
 <h1><p align=center>All Done</p></h1
 
-<h2><p align=center>Next Demonstration:<br><a href="https://github.com/JasonDelahoussaye/ticket-lifecycle">Ticket Lifecycle Examples</a></p></h2>
+<h2><p align=center>Next Demonstration:<br><a href="https://github.com/Dennimun/ticket-lifecycle">Ticket Lifecycle Examples</a></p></h2>
 
 
 
